@@ -12,4 +12,4 @@ Achieved a notable accuracy score of 0.9981 with the ANN, underscoring its effec
 These results underline the effectiveness of both XGBoost and the ANN, offering strong candidates for further exploration and deployment.
 
 # DATASET LINK
-
+# /kaggle/input/creditcardfraud/creditcard.csv
